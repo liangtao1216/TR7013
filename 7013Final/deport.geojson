@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Geographic Area Name": "Block 1002, Block Group 1, Census Tract 39, Kings County, New York", "Population": 575, "cdtaname": "BK02 Downtown Brooklyn-Fort Greene (CD 2 Approximation)", "boroname_left": "Brooklyn", "cdta2020": "BK02", "geoid": "360470039001002", "Demand": 13 }, "geometry": { "type": "Point", "coordinates": [ -73.981466173800271, 40.686022370033818 ] } }
+]
+}
